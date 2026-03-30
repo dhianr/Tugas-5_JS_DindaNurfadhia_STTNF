@@ -6,9 +6,8 @@ Membuat sebuah fitur manajemen produk berbasis javascript, yang mencangkup:
 - Menampilkan seluruh produk
 
 output: 
-|         DAFTAR PRODUK ELEKTRONIK          |
-|-------------------------------------------|
 | ID |    Nama Produk   |      Harga        |
+|-------------------------------------------|
 | 1  |       Laptop     |    Rp12000000     |
 | 2  |    Smartphone    |    Rp5000000      |
 | 3  |      Tablet      |     Rp8000000     |
